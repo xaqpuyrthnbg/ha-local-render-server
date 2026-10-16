@@ -2,7 +2,7 @@ name: Invisible Local Render
 version: "0.2.0"
 slug: invisible_local_render
 description: Serve frames to an Invisible Computers e-paper display from a PNG URL
-url: https://github.com/jonathon-m/ha-local-render-server
+url: https://github.com/xaqpuyrthnbg/ha-local-render-server
 arch:
   - aarch64
   - amd64
